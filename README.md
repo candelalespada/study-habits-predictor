@@ -1,4 +1,6 @@
 # study-habits-predictor
+[📄 Full Report](https://docs.google.com/document/d/1THdau_7u5emgVqrSKAI0sO1gMhEDDui96IKF0MyPRAY/edit?usp=sharing)
+
 A machine learning project analyzing whether self-reported study habits and behaviors can predict academic performance, using survey data from CMSC320 students.
 
 ## Problem
